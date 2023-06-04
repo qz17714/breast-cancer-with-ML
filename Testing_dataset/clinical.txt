@@ -1,0 +1,363 @@
+"participant"	"histology"	"age.at.diagnosis"	"estrogen.receptor.status"	"progesterone.receptor.status"	"her2.status"	"ethnicity"	"race"	"positive.lymphnodes"	"stage"	"tnm.m.category"	"tnm.n.category"	"tnm.t.category"	"lymphocyte.infiltration"	"monocyte.infiltration"	"neutrophil.infiltration"	"necrosis.percent"	"normal.cells.percent"	"stromal.cells.percent"	"tumor.cells.percent"	"pfi"	"pfi.time"
+"AAT0"	"infiltrating lobular carcinoma"	42	"positive"	"positive"	"negative"	"hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	40	20	20	5	0	25	70	0	1477
+"A04V"	"infiltrating ductal carcinoma"	39	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	2	2	2	10	0	25	65	1	1470
+"A04Y"	"infiltrating ductal carcinoma"	53	"positive"	"positive"	"negative"	"NA"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	2	0	0	1	2	17	80	0	1099
+"A0CQ"	"infiltrating ductal carcinoma"	62	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage ia"	"m0"	"n0"	"t1"	15	1	0	3	0	32	65	0	2695
+"A3J1"	"infiltrating lobular carcinoma"	63	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	NA	"n0"	"t1"	0	0	0	0	0	0	100	0	343
+"A06T"	"infiltrating ductal carcinoma"	75	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iiia"	"m0"	"n1"	"t3"	7	0	0	2	0	15	83	0	1614
+"A06U"	"infiltrating ductal carcinoma"	80	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iib"	"m0"	"n1"	"t2"	15	0	0	0	40	10	50	0	883
+"A07E"	"infiltrating ductal carcinoma"	81	"positive"	"positive"	"negative"	"NA"	"NA"	NA	NA	NA	"n3"	"t4"	25	0	0	2	15	18	65	0	608
+"A09E"	"infiltrating ductal carcinoma"	73	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iiib"	"m0"	"n1"	"t4"	4	0	0	2	7	16	75	0	1492
+"A5EI"	"other, specify"	88	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage ib"	NA	"n1"	"t1"	1	0	0	0	0	0	100	0	442
+"A62X"	"infiltrating ductal carcinoma"	72	"positive"	"negative"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	NA	"n0"	"t2"	40	20	20	0	0	20	80	0	417
+"A0JI"	"infiltrating ductal carcinoma"	56	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n1"	"t1"	0	0	0	0	0	40	60	0	1528
+"A7U7"	"infiltrating lobular carcinoma"	55	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	4	"stage iiia"	"m0"	"n2"	"t2"	40	20	20	0	0	40	60	0	584
+"A18H"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	10	0	0	10	5	35	50	0	652
+"A1F5"	"infiltrating ductal carcinoma"	62	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iia"	"m0"	"n1"	"t1"	0	0	0	0	0	50	50	0	2712
+"A15O"	"infiltrating ductal carcinoma"	89	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	NA	"stage i"	"m0"	NA	"t1"	0	0	0	0	5	5	90	1	1210
+"A1BC"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	"negative"	"NA"	"NA"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	0	0	0	100	0	501
+"A1LG"	"infiltrating lobular carcinoma"	50	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	10	90	0	1523
+"A572"	"infiltrating ductal carcinoma"	72	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage iiia"	"m0"	"n2"	"t2"	3	0	0	2	0	78	20	0	1208
+"A1J5"	"infiltrating lobular carcinoma"	59	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iib"	"m0"	"n0"	"t3"	0	0	0	0	0	20	80	0	477
+"A2DD"	"infiltrating ductal carcinoma"	53	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	0	0	100	0	2282
+"A2DO"	"infiltrating lobular carcinoma"	54	"positive"	"positive"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage i"	"m0"	"n0"	"t1"	2	0	0	3	0	20	77	0	2596
+"A50Y"	"infiltrating lobular carcinoma"	84	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage iia"	NA	"n0"	"t2"	100	0	0	0	2	40	58	0	762
+"A740"	"infiltrating ductal carcinoma"	61	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	0	"stage ia"	NA	"n0"	"t1"	40	20	20	0	0	40	60	0	441
+"A5RU"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	NA	"NA"	"black or african american"	1	"stage iia"	NA	"n1"	"t1"	10	2	0	3	2	65	30	0	1219
+"AA12"	"infiltrating ductal carcinoma"	82	"positive"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	2	"stage iiia"	NA	"n1"	"t3"	5	0	0	5	5	10	80	0	574
+"AAAU"	"infiltrating lobular carcinoma"	55	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	4	NA	NA	NA	NA	40	20	20	0	0	30	70	1	1808
+"AALK"	"infiltrating ductal carcinoma"	52	"positive"	"positive"	"positive"	"not hispanic or latino"	"black or african american"	0	"stage ia"	"m0"	"n0"	"t1"	2	0	0	5	5	30	60	0	1448
+"A0SD"	"infiltrating ductal carcinoma"	59	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	2	0	0	0	15	60	25	0	437
+"A0SE"	"mixed histology (please specify)"	56	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	2	0	0	0	7	13	80	0	1321
+"A0SF"	"infiltrating ductal carcinoma"	54	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	3	0	0	1	2	27	70	0	1463
+"A0SJ"	"infiltrating ductal carcinoma"	39	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	3	"stage iiia"	"m0"	"n1"	"t3"	2	0	0	0	5	45	50	0	416
+"A04N"	"infiltrating ductal carcinoma"	66	"positive"	"positive"	NA	"hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	20	0	0	1	9	10	75	0	4354
+"A04P"	"infiltrating ductal carcinoma"	36	"negative"	"negative"	NA	"NA"	"black or african american"	18	"stage iiic"	"m0"	"n3"	"t2"	12	0	0	1	0	9	90	1	102
+"A04R"	"infiltrating ductal carcinoma"	36	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	1	4	5	90	0	3709
+"A0CL"	"infiltrating ductal carcinoma"	37	"positive"	"positive"	"negative"	"not hispanic or latino"	"black or african american"	9	"stage iiia"	"m0"	"n2"	"t3"	60	1	0	3	10	47	40	0	3015
+"A0CP"	"infiltrating ductal carcinoma"	60	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	2	0	0	0	5	40	55	0	2813
+"A0CR"	"infiltrating lobular carcinoma"	54	"positive"	"positive"	"negative"	"not hispanic or latino"	"asian"	0	"stage iib"	"m0"	"n0"	"t3"	100	0	0	0	0	60	40	0	3283
+"A0CV"	"infiltrating ductal carcinoma"	41	"positive"	"positive"	"negative"	"not hispanic or latino"	"asian"	4	"stage iib"	"m0"	"n1"	"t2"	20	25	30	10	0	20	70	0	3011
+"A0CY"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	25	75	0	1673
+"A0EM"	"infiltrating ductal carcinoma"	73	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	3	2	0	2	5	43	50	0	3094
+"A0EO"	"infiltrating ductal carcinoma"	54	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	15	1	0	1	20	20	59	0	2442
+"A0EP"	"infiltrating lobular carcinoma"	56	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	1	0	0	1	1	65	33	0	3603
+"A0ER"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	NA	"not hispanic or latino"	"white"	1	"stage ib"	"m0"	"n1"	"t1"	6	1	0	1	34	5	60	0	2263
+"A0ET"	"infiltrating ductal carcinoma"	58	"positive"	"positive"	NA	"not hispanic or latino"	"white"	5	"stage iiia"	"m0"	"n2"	"t2"	7	0	0	1	15	0	84	0	1066
+"A0EV"	"infiltrating ductal carcinoma"	80	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	2	0	0	0	5	40	55	0	968
+"A0EW"	"infiltrating lobular carcinoma"	53	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	26	"stage iiic"	"m0"	"n3"	"t1"	2	0	0	0	10	25	65	1	1353
+"A0EY"	"infiltrating ductal carcinoma"	62	"positive"	"negative"	"positive"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	4	0	0	0	0	15	85	0	1925
+"A0SU"	"infiltrating ductal carcinoma"	66	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	0	2	20	78	0	1662
+"A0SW"	"infiltrating ductal carcinoma"	82	"positive"	"negative"	NA	"not hispanic or latino"	"white"	4	"stage iv"	"m1"	"n2"	"t2"	1	0	0	0	0	20	80	1	653
+"A0T6"	"infiltrating lobular carcinoma"	50	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iib"	"m0"	"n0"	"t3"	40	10	10	5	0	15	80	0	575
+"A0T7"	"infiltrating ductal carcinoma"	51	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	40	10	20	5	0	15	80	0	631
+"A0YC"	"infiltrating ductal carcinoma"	59	"positive"	"positive"	NA	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	10	90	1	756
+"A0YI"	"infiltrating ductal carcinoma"	62	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	2	0	0	1	20	20	59	0	1505
+"A0YJ"	"infiltrating ductal carcinoma"	39	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	5	"stage iiia"	"m0"	"n2"	"t3"	0	0	0	0	0	10	90	1	559
+"A0YK"	"infiltrating lobular carcinoma"	61	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	10	10	80	0	588
+"A0YM"	"infiltrating ductal carcinoma"	67	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	70	30	0	965
+"A1FV"	"infiltrating lobular carcinoma"	74	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iib"	"m0"	"n0"	"t3"	0	0	0	0	0	20	80	0	714
+"A1FW"	"infiltrating ductal carcinoma"	62	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	5	"stage iiia"	"m0"	"n2"	"t3"	0	0	0	0	10	30	60	0	528
+"A1G1"	"infiltrating ductal carcinoma"	85	"negative"	"negative"	NA	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	10	0	20	70	0	584
+"A259"	"infiltrating ductal carcinoma"	70	"positive"	"positive"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage i"	"m0"	"n0"	"t1"	1	0	0	0	1	34	65	0	1596
+"A25C"	"infiltrating ductal carcinoma"	50	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	3	"stage iib"	"m0"	"n1"	"t2"	1	0	0	0	0	30	70	0	523
+"A25E"	"infiltrating ductal carcinoma"	34	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	6	"stage iiia"	"m0"	"n2"	"t2"	5	0	0	2	0	26	72	1	2989
+"A3KC"	"infiltrating lobular carcinoma"	55	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	2	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	0	100	0	1102
+"A3XU"	"infiltrating ductal carcinoma"	35	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	3	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	3	7	90	1	574
+"A3XW"	"infiltrating ductal carcinoma"	42	"positive"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	3	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	30	0	70	0	1712
+"A3XX"	"infiltrating ductal carcinoma"	49	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	50	0	50	0	1439
+"A4RW"	"infiltrating lobular carcinoma"	49	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	27	"stage iiic"	"m0"	"n3"	"t2"	40	10	10	10	0	30	60	0	222
+"A4S1"	"metaplastic carcinoma"	66	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	40	20	20	10	0	20	70	0	820
+"A4S2"	"infiltrating lobular carcinoma"	62	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	5	"stage iiia"	"m0"	"n2"	"t3"	40	20	20	0	0	40	60	0	643
+"A0CE"	"infiltrating ductal carcinoma"	57	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	6	1	1	17	0	13	70	0	1074
+"A0D9"	"infiltrating ductal carcinoma"	37	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	0	5	35	60	0	1139
+"A0DB"	"infiltrating ductal carcinoma"	56	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	1	0	14	85	0	1007
+"A13D"	"infiltrating ductal carcinoma"	46	"negative"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	20	10	40	30	0	965
+"A26G"	"other, specify"	50	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	100	0	0	0	0	60	40	0	722
+"A26J"	"infiltrating ductal carcinoma"	49	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	10	20	70	0	627
+"A3IY"	"mucinous carcinoma"	71	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	10	25	65	0	345
+"A4SA"	"infiltrating lobular carcinoma"	40	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	5	0	0	0	0	45	55	0	454
+"A4SB"	"infiltrating lobular carcinoma"	56	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iiia"	"m0"	"n1"	"t3"	1	0	0	3	0	57	40	0	418
+"A4SC"	"infiltrating lobular carcinoma"	62	"positive"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage iib"	NA	"n0"	"t3"	1	0	0	2	2	73	23	0	446
+"A4SE"	"infiltrating ductal carcinoma"	54	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	4	0	0	20	5	50	25	0	644
+"A56D"	"infiltrating ductal carcinoma"	84	"positive"	"positive"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	2	0	0	0	0	40	60	0	448
+"A5ZW"	"infiltrating ductal carcinoma"	47	"positive"	"positive"	"negative"	"not hispanic or latino"	"black or african american"	1	"stage iia"	"m0"	"n1"	"t1"	40	20	20	0	0	30	70	0	326
+"A6VV"	"infiltrating ductal carcinoma"	51	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	8	2	0	1	0	49	50	0	313
+"A6VX"	"infiltrating ductal carcinoma"	68	"positive"	"positive"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	5	1	1	0	20	20	60	0	317
+"A6VY"	"infiltrating ductal carcinoma"	48	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	2	"stage iib"	"m0"	"n1"	"t2"	5	0	0	1	0	44	55	0	266
+"A06P"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage iiia"	"m0"	"n2"	"t1"	8	0	0	2	8	15	75	0	396
+"A06Y"	"infiltrating ductal carcinoma"	66	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage iia"	"m0"	"n0"	"t2"	5	0	0	0	25	50	25	1	791
+"A06Z"	"infiltrating ductal carcinoma"	84	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage iib"	"m0"	"n0"	"t3"	2	0	0	4	10	16	70	0	31
+"A075"	"infiltrating ductal carcinoma"	42	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iib"	"m0"	"n1"	"t2"	10	0	20	10	0	5	85	0	518
+"A079"	"infiltrating ductal carcinoma"	69	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage iiib"	"m0"	"n3"	"t4"	1	0	0	8	2	26	64	0	274
+"A07O"	"infiltrating ductal carcinoma"	51	"negative"	"negative"	"negative"	"NA"	"NA"	NA	"stage iia"	"m0"	"n0"	"t2"	2	0	0	9	0	10	81	0	304
+"A07P"	"infiltrating ductal carcinoma"	68	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iib"	"m0"	"n1"	"t2"	2	0	0	2	0	28	70	0	334
+"A07R"	"infiltrating ductal carcinoma"	80	"negative"	"negative"	"positive"	"NA"	"NA"	NA	"stage iiic"	"m0"	"n3"	"t2"	2	0	0	7	0	28	65	0	273
+"A082"	"infiltrating ductal carcinoma"	58	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage iib"	"m0"	"n1"	"t2"	1	0	0	1	1	10	88	0	549
+"A08A"	"infiltrating ductal carcinoma"	89	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage i"	"m0"	"n0"	"t1"	2	1	0	3	0	15	82	0	30
+"A08C"	"infiltrating ductal carcinoma"	65	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iia"	"m0"	"n0"	"t2"	4	0	0	2	0	20	78	0	881
+"A08H"	"infiltrating ductal carcinoma"	66	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iia"	"m0"	"n0"	"t2"	3	0	0	1	0	19	80	0	0
+"A08J"	"infiltrating ductal carcinoma"	52	"positive"	"negative"	"negative"	"NA"	"NA"	NA	"stage iv"	"m1"	"n3"	"t4"	4	0	0	2	0	20	78	1	1127
+"A08O"	"infiltrating ductal carcinoma"	45	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage iv"	"m1"	"n3"	"t2"	8	0	0	2	15	20	63	1	762
+"A08P"	"infiltrating ductal carcinoma"	70	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iiia"	"m0"	"n2"	"t2"	8	0	0	12	0	20	68	0	943
+"A092"	"infiltrating ductal carcinoma"	48	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage iiia"	"m0"	"n2"	"t2"	4	0	0	1	0	4	95	0	942
+"A097"	"infiltrating ductal carcinoma"	65	"positive"	"positive"	"positive"	"NA"	"NA"	NA	"stage iib"	"m0"	"n1"	"t2"	2	0	0	0	3	27	70	0	365
+"A0AD"	"mixed histology (please specify)"	83	"positive"	"positive"	"negative"	"NA"	"NA"	NA	"stage i"	"m0"	"n0"	"t1"	5	0	0	2	0	33	65	0	1157
+"A23E"	"infiltrating ductal carcinoma"	50	"positive"	"positive"	NA	"NA"	"white"	1	"stage iib"	NA	"n1"	"t2"	1	0	0	1	0	54	45	0	698
+"A2BM"	"infiltrating ductal carcinoma"	41	"positive"	"positive"	NA	"NA"	"black or african american"	1	"stage iib"	NA	"n1"	"t2"	0	0	0	5	0	15	80	0	3022
+"A2FB"	"infiltrating lobular carcinoma"	65	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage iia"	NA	"n0"	"t2"	0	0	0	0	0	15	85	0	1234
+"A2FE"	"infiltrating lobular carcinoma"	62	"positive"	"positive"	NA	"not hispanic or latino"	"white"	18	"stage iiic"	NA	"n3"	"t3"	0	0	0	0	40	25	35	1	766
+"A2FG"	"infiltrating lobular carcinoma"	79	"positive"	"negative"	NA	"NA"	"white"	1	"stage iib"	NA	"n1"	"t2"	1	0	0	0	10	72	18	0	1853
+"A2FK"	"infiltrating lobular carcinoma"	45	"positive"	"positive"	NA	"hispanic or latino"	"white"	3	"stage iiic"	"m0"	"n3"	"t2"	1	0	0	0	7	68	25	0	2650
+"A2QI"	"infiltrating lobular carcinoma"	76	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	2	"stage iiia"	NA	"n1"	"t3"	0	0	0	0	10	60	30	0	588
+"A3QP"	"infiltrating lobular carcinoma"	79	"positive"	"positive"	NA	"not hispanic or latino"	"white"	1	"stage iib"	NA	"n1"	"t2"	10	0	0	0	50	0	50	0	675
+"A3TN"	"infiltrating lobular carcinoma"	75	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage iib"	NA	"n0"	"t3"	2	1	0	1	8	61	30	0	456
+"A3YI"	"infiltrating lobular carcinoma"	74	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	12	"stage iiic"	NA	"n3"	"t1"	3	1	1	0	5	15	80	0	707
+"A3YJ"	"other, specify"	66	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage iia"	NA	"n0"	"t2"	4	1	1	0	1	19	80	0	754
+"A62Y"	"infiltrating lobular carcinoma"	79	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	NA	"n1"	"t2"	40	20	20	0	0	30	70	0	530
+"A6IW"	"infiltrating ductal carcinoma"	73	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iia"	NA	"n0"	"t2"	15	0	0	0	0	0	100	0	413
+"A7VB"	"infiltrating ductal carcinoma"	51	"positive"	"negative"	NA	"not hispanic or latino"	"black or african american"	3	"stage iia"	NA	"n1"	"t1"	2	1	1	2	4	4	90	0	250
+"A7VC"	"metaplastic carcinoma"	56	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iib"	NA	"n0"	"t3"	5	2	2	10	20	10	60	0	1
+"A03X"	"infiltrating ductal carcinoma"	74	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	3	0	0	1	0	19	80	0	10
+"A046"	"infiltrating ductal carcinoma"	68	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	1	0	1	0	7	92	0	10
+"A049"	"infiltrating ductal carcinoma"	62	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	4	2	0	2	0	18	80	0	19
+"A04A"	"infiltrating ductal carcinoma"	36	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	4	"stage iiia"	"m0"	"n2"	"t2"	13	1	0	2	15	16	67	0	90
+"A0AK"	"infiltrating ductal carcinoma"	76	"positive"	"negative"	"positive"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	10	25	5	15	0	20	65	0	224
+"A0AS"	"infiltrating ductal carcinoma"	70	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	4	"stage iiia"	"m0"	"n2"	"t2"	13	0	0	4	3	28	65	0	10
+"A0FF"	"infiltrating ductal carcinoma"	32	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	1	0	0	0	0	15	85	0	172
+"A0FJ"	"infiltrating ductal carcinoma"	59	"positive"	"negative"	"positive"	"not hispanic or latino"	"white"	8	"stage iv"	"m1"	"n2"	"t2"	3	0	0	9	0	21	70	0	242
+"A0FW"	"infiltrating ductal carcinoma"	67	"positive"	NA	"negative"	"not hispanic or latino"	"white"	2	"stage iiia"	"m0"	"n2"	"t2"	0	0	0	0	0	5	95	0	11
+"A0FZ"	"infiltrating ductal carcinoma"	45	"positive"	"negative"	"positive"	"not hispanic or latino"	"white"	1	"stage iiia"	"m0"	"n2"	"t2"	0	0	0	0	0	5	95	0	10
+"A0XR"	"infiltrating ductal carcinoma"	55	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	7	"stage iiia"	"m0"	"n2"	"t2"	2	1	1	2	0	18	80	0	10
+"A0XV"	"infiltrating ductal carcinoma"	67	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	7	"stage iiia"	"m0"	"n2"	"t2"	2	1	1	0	0	20	80	0	162
+"A0XW"	"infiltrating ductal carcinoma"	36	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	1	"stage iiia"	"m0"	"n2"	"t2"	2	0	0	0	0	15	85	0	170
+"A03P"	"infiltrating ductal carcinoma"	54	"positive"	"positive"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iib"	"m0"	"n1"	"t2"	3	1	0	2	0	33	65	1	1922
+"A0J6"	"infiltrating ductal carcinoma"	61	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	5	95	0	1140
+"A0J9"	"infiltrating lobular carcinoma"	61	"positive"	"positive"	NA	"not hispanic or latino"	"white"	15	"stage iiic"	"m0"	"n3"	"t2"	1	0	0	0	0	15	85	1	1066
+"A0JC"	"infiltrating ductal carcinoma"	64	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	0	0	10	90	0	1547
+"A0JE"	"infiltrating ductal carcinoma"	53	"negative"	"negative"	"positive"	"not hispanic or latino"	"black or african american"	8	"stage iiia"	"m0"	"n2"	"t2"	1	0	0	0	1	14	85	0	2335
+"A0JF"	"infiltrating ductal carcinoma"	68	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	2	"stage iia"	"m0"	"n1"	"t1"	2	0	0	0	1	24	75	0	1980
+"A126"	"infiltrating ductal carcinoma"	39	"positive"	"positive"	"negative"	"not hispanic or latino"	"asian"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	1	0	19	80	1	267
+"A128"	"infiltrating ductal carcinoma"	61	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	3	0	0	10	0	8	82	0	3248
+"A12B"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	"negative"	"hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	0	100	0	2989
+"A04L"	"infiltrating ductal carcinoma"	48	"positive"	"negative"	"positive"	"not hispanic or latino"	"white"	0	"stage iia"	NA	"n0"	"t2"	2	2	0	1	0	30	69	0	3957
+"A1H2"	"infiltrating ductal carcinoma"	84	"positive"	"positive"	NA	"not hispanic or latino"	"white"	13	"stage iiia"	NA	"n2"	"t2"	40	20	20	10	0	30	60	0	475
+"A1H3"	"infiltrating ductal carcinoma"	49	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	14	"stage iiic"	NA	"n3"	"t2"	0	0	0	0	0	10	90	0	989
+"A0TP"	"infiltrating ductal carcinoma"	43	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	10	0	10	80	0	4275
+"A0TS"	"infiltrating ductal carcinoma"	46	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	80	20	0	0	0	40	60	0	2558
+"A0TU"	"infiltrating ductal carcinoma"	35	"negative"	"negative"	"negative"	"NA"	"NA"	0	"stage iia"	"m0"	"n0"	"t2"	3	0	0	23	0	2	75	0	709
+"A0TW"	"infiltrating ductal carcinoma"	50	"positive"	"positive"	NA	"not hispanic or latino"	"white"	3	"stage iiia"	"m0"	"n1"	"t3"	2	0	0	1	0	9	90	1	739
+"A0TX"	"infiltrating ductal carcinoma"	64	"positive"	"positive"	"positive"	"NA"	"NA"	3	"stage iia"	"m0"	"n1"	"t1"	3	1	1	20	0	15	65	0	1972
+"A0TY"	"infiltrating ductal carcinoma"	54	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	3	0	0	0	10	90	0	1	544
+"A0U1"	"infiltrating ductal carcinoma"	36	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	2	2	1	2	15	23	60	0	4052
+"A0U3"	"infiltrating ductal carcinoma"	59	"positive"	"positive"	"negative"	"hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	3	1	1	1	5	24	70	0	4080
+"A1AN"	"infiltrating ductal carcinoma"	46	"positive"	"positive"	"negative"	"hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	25	75	0	2920
+"A1AP"	"infiltrating ductal carcinoma"	80	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	5	0	95	0	2856
+"A1AQ"	"infiltrating ductal carcinoma"	49	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	0	100	0	3021
+"A1AT"	"infiltrating lobular carcinoma"	62	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	1	"stage iia"	"m0"	"n0"	"t2"	40	20	20	15	0	15	70	0	1272
+"A1AX"	"infiltrating ductal carcinoma"	64	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	40	20	20	0	0	30	70	0	2629
+"A1AY"	"infiltrating ductal carcinoma"	65	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	40	20	20	0	0	20	80	0	1026
+"A24H"	"infiltrating lobular carcinoma"	65	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	1	1	2	0	8	90	0	4894
+"A24L"	"infiltrating ductal carcinoma"	26	"positive"	"positive"	NA	"not hispanic or latino"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	3	1	1	0	0	20	80	1	1414
+"A24T"	"infiltrating lobular carcinoma"	46	"positive"	"positive"	NA	"not hispanic or latino"	"white"	15	"stage iiic"	"m0"	"n3"	"t3"	2	0	0	0	7	23	70	0	3202
+"A24U"	"infiltrating ductal carcinoma"	47	"negative"	"negative"	"positive"	"not hispanic or latino"	"white"	2	"stage iia"	"m0"	"n1"	"t1"	3	0	0	0	0	75	25	0	3128
+"A24W"	"infiltrating ductal carcinoma"	55	"positive"	"positive"	"negative"	"NA"	"white"	3	"stage iib"	"m0"	"n1"	"t2"	1	0	0	1	20	29	50	0	1550
+"A251"	"infiltrating ductal carcinoma"	51	"positive"	"negative"	NA	"not hispanic or latino"	"white"	4	"stage iiia"	"m0"	"n2"	"t2"	2	0	0	1	0	39	60	0	3030
+"A2LH"	"infiltrating lobular carcinoma"	55	"negative"	"negative"	NA	"not hispanic or latino"	"white"	29	"stage iii"	"m0"	"n3"	"t3"	1	1	0	0	3	47	50	1	434
+"A2LN"	"infiltrating lobular carcinoma"	65	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	0	1	59	40	0	1161
+"A5QN"	"infiltrating lobular carcinoma"	68	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	10	"stage iiic"	"m0"	"n3"	"t2"	40	20	20	5	0	35	60	0	1013
+"A0I1"	"infiltrating ductal carcinoma"	73	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	15	0	25	60	1	1120
+"A0I2"	"infiltrating ductal carcinoma"	45	NA	NA	NA	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	1	0	0	0	0	15	85	0	4361
+"A0I5"	"infiltrating ductal carcinoma"	49	"positive"	"positive"	NA	"not hispanic or latino"	"white"	5	"stage iib"	"m0"	"n1"	"t2"	1	0	0	0	3	17	80	0	8556
+"A0I6"	"infiltrating ductal carcinoma"	49	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	6	"stage iia"	"m0"	"n1"	"t1"	2	0	0	0	0	15	85	1	859
+"A0IB"	"infiltrating ductal carcinoma"	64	"positive"	"positive"	NA	"not hispanic or latino"	"white"	8	"stage iv"	"m1"	"n3"	"t3"	1	0	0	0	0	15	85	1	2717
+"A0IK"	"infiltrating ductal carcinoma"	63	"negative"	"negative"	NA	"not hispanic or latino"	"white"	1	"stage iiib"	"m0"	"n1"	"t4"	3	0	0	1	4	30	65	1	489
+"A0IN"	"other, specify"	45	"positive"	"negative"	NA	"not hispanic or latino"	"white"	NA	NA	NA	NA	"t1"	1	0	0	0	0	10	90	1	1412
+"A0IQ"	"infiltrating ductal carcinoma"	40	"negative"	"negative"	NA	"not hispanic or latino"	"white"	1	"stage iiia"	"m0"	"n1"	"t3"	1	0	0	0	0	15	85	0	4285
+"A0RE"	"infiltrating ductal carcinoma"	61	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	0	NA	"m0"	"n0"	NA	0	0	0	0	0	20	80	0	7777
+"A0RG"	"infiltrating ductal carcinoma"	26	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage iib"	"m0"	"n0"	"t3"	0	0	0	0	0	20	80	0	2082
+"A0RI"	"infiltrating ductal carcinoma"	44	"positive"	"positive"	NA	"not hispanic or latino"	"white"	6	"stage iiib"	"m0"	"n1"	"t4"	0	0	0	0	0	20	80	1	1100
+"A0RM"	"infiltrating ductal carcinoma"	57	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	NA	NA	NA	NA	NA	1	0	0	0	0	25	75	0	2373
+"A0RQ"	"infiltrating lobular carcinoma"	68	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage iib"	"m0"	"n0"	"t3"	1	0	0	0	6	64	30	0	4267
+"A0RS"	"infiltrating ductal carcinoma"	38	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	5	0	20	75	1	2041
+"A0RU"	"other, specify"	40	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	0	0	5	95	1	3076
+"A0WS"	"infiltrating ductal carcinoma"	58	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	NA	NA	NA	NA	"t1"	40	10	40	10	0	60	30	0	2965
+"A0WT"	"infiltrating ductal carcinoma"	61	"positive"	"positive"	NA	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	3	1	1	0	0	40	60	1	3862
+"A0WV"	"infiltrating ductal carcinoma"	67	"positive"	"positive"	NA	"not hispanic or latino"	"white"	4	"stage iib"	"m0"	"n1"	"t2"	3	1	1	0	0	25	75	0	2417
+"A0WX"	"other, specify"	40	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	9	"stage iiia"	"m0"	"n1"	"t3"	3	1	2	0	0	25	75	1	563
+"A0X1"	"infiltrating ductal carcinoma"	48	"negative"	"negative"	NA	"not hispanic or latino"	"white"	16	"stage iib"	"m1"	"n1"	"t2"	10	0	0	20	0	0	80	1	490
+"A0X7"	"mixed histology (please specify)"	62	"positive"	"positive"	NA	"not hispanic or latino"	"white"	NA	NA	NA	NA	"t1"	0	0	0	0	0	0	100	1	1104
+"A1KC"	"infiltrating ductal carcinoma"	67	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	NA	NA	NA	NA	NA	NA	NA	0	1326
+"A2IU"	"infiltrating lobular carcinoma"	62	"positive"	"positive"	NA	"hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	40	60	1	4224
+"A400"	"infiltrating ductal carcinoma"	43	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	4	"stage iiia"	"m0"	"n2"	"t2"	0	0	0	0	0	10	90	0	215
+"A408"	"mixed histology (please specify)"	55	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	10	"stage iiic"	"m0"	"n3"	"t2"	4	2	2	1	1	23	75	0	2072
+"A0AU"	"infiltrating ductal carcinoma"	45	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	18	0	0	1	25	5	69	0	1914
+"A0AV"	"infiltrating ductal carcinoma"	52	"negative"	"negative"	NA	"NA"	"black or african american"	0	"stage i"	"m0"	"n0"	"t1"	5	1	0	5	8	27	60	0	1820
+"A0B0"	"infiltrating ductal carcinoma"	56	"positive"	"positive"	"negative"	"NA"	"black or african american"	0	"stage i"	"m0"	"n0"	"t1"	2	0	0	1	24	5	70	0	2477
+"A0BC"	"infiltrating ductal carcinoma"	60	"positive"	"positive"	"negative"	"NA"	"white"	12	"stage iiic"	"m0"	"n3"	"t2"	10	0	0	1	5	24	70	0	974
+"A0BG"	"infiltrating ductal carcinoma"	73	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	40	0	0	1	0	9	90	0	1871
+"A0BV"	"infiltrating ductal carcinoma"	78	"positive"	"positive"	"negative"	"NA"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	15	0	0	1	14	15	70	0	1519
+"A0DG"	"infiltrating ductal carcinoma"	30	"positive"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	6	0	0	2	7	13	78	0	2041
+"A0DL"	"other, specify"	64	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	27	0	1	2	0	20	78	0	2381
+"A0DS"	"infiltrating ductal carcinoma"	71	"positive"	"positive"	"negative"	"NA"	"white"	8	"stage iiia"	"m0"	"n2"	"t2"	3	0	0	0	0	75	25	0	78
+"A0DZ"	"infiltrating ductal carcinoma"	43	"positive"	"positive"	"positive"	"NA"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	4	1	0	1	17	5	77	0	495
+"A0E0"	"infiltrating ductal carcinoma"	38	"negative"	"negative"	"negative"	"NA"	"white"	10	"stage iiic"	"m0"	"n3"	"t3"	3	1	0	1	0	0	99	0	134
+"A0E1"	"infiltrating ductal carcinoma"	52	"positive"	"positive"	NA	"NA"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	5	1	0	1	5	14	80	0	477
+"A0E6"	"infiltrating ductal carcinoma"	69	"negative"	"negative"	NA	"NA"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	4	2	0	1	0	4	95	0	293
+"A0EE"	"infiltrating ductal carcinoma"	68	"negative"	"negative"	"positive"	"NA"	"white"	0	"stage iib"	"m0"	"n0"	"t3"	10	30	20	10	0	20	70	0	943
+"A0EI"	"infiltrating ductal carcinoma"	51	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	2	"stage iia"	"m0"	"n1"	"t1"	25	2	0	2	0	63	35	0	1926
+"A0GZ"	"infiltrating ductal carcinoma"	62	"positive"	"positive"	NA	"NA"	"white"	1	"stage iia"	"m0"	"n1"	"t1"	0	0	0	0	0	5	95	0	328
+"A0H5"	"infiltrating ductal carcinoma"	45	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	20	0	0	2	15	18	30	0	1620
+"A0H7"	"infiltrating ductal carcinoma"	65	"positive"	"positive"	"negative"	"NA"	"white"	6	"stage iiia"	"m0"	"n2"	"t1"	36	0	0	1	64	10	25	0	702
+"A0H9"	"infiltrating ductal carcinoma"	69	"positive"	"positive"	NA	"NA"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	12	0	0	2	15	43	40	0	1247
+"A0HA"	"infiltrating ductal carcinoma"	31	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	12	0	0	2	5	48	45	0	1611
+"A0HB"	"infiltrating ductal carcinoma"	55	"positive"	"positive"	NA	"NA"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	15	0	0	2	30	38	30	0	806
+"A0HF"	"infiltrating ductal carcinoma"	77	"positive"	"positive"	"negative"	"NA"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	5	0	0	2	0	55	43	0	727
+"A0HL"	"infiltrating ductal carcinoma"	56	"positive"	"positive"	NA	"NA"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	10	90	0	72
+"A0HN"	"infiltrating ductal carcinoma"	67	"positive"	"positive"	NA	"NA"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	0	0	5	95	0	516
+"A0HQ"	"infiltrating ductal carcinoma"	56	"positive"	"positive"	"negative"	"NA"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	0	3	12	85	0	1121
+"A0HU"	"infiltrating ductal carcinoma"	52	"positive"	"positive"	"negative"	"NA"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	2	0	0	3	0	17	80	0	392
+"A0W4"	"infiltrating ductal carcinoma"	46	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	NA	"stage iia"	"m0"	"n0"	"t2"	2	1	1	0	0	25	75	0	759
+"A18G"	"infiltrating ductal carcinoma"	81	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	0	0	5	95	0	149
+"A18I"	"infiltrating ductal carcinoma"	53	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	1	"stage iia"	NA	"n1"	"t1"	0	0	0	0	0	10	90	0	1093
+"A18L"	"infiltrating ductal carcinoma"	50	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iiia"	"m0"	"n1"	"t3"	0	0	0	0	0	30	70	0	811
+"A18N"	"infiltrating ductal carcinoma"	88	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	2	"stage iia"	"m0"	"n1"	"t2"	2	0	0	0	2	23	75	0	1148
+"A18T"	"infiltrating ductal carcinoma"	70	"negative"	"negative"	"positive"	"not hispanic or latino"	"white"	NA	"stage iia"	"m0"	"n0"	"t2"	0	0	0	5	0	10	85	1	224
+"A1EN"	"infiltrating ductal carcinoma"	78	"negative"	"negative"	"positive"	"not hispanic or latino"	"white"	NA	"stage iia"	"m0"	NA	"t2"	0	0	0	0	0	0	100	0	2127
+"A1ET"	"infiltrating ductal carcinoma"	55	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	0	0	100	0	2520
+"A1EX"	"infiltrating ductal carcinoma"	67	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	15	85	1	1508
+"A1F6"	"infiltrating ductal carcinoma"	51	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	6	"NA"	NA	"n2"	"t4"	2	0	0	0	10	35	55	0	2965
+"A1F8"	"infiltrating ductal carcinoma"	90	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	12	"stage iiib"	"m0"	"n2"	"t4"	0	0	0	0	0	10	90	1	763
+"A1FE"	"infiltrating ductal carcinoma"	31	"positive"	"positive"	NA	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	4	1	1	1	5	24	70	1	2273
+"A1FL"	"infiltrating ductal carcinoma"	69	"positive"	"positive"	NA	"not hispanic or latino"	"white"	4	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	10	90	1	1673
+"A1FR"	"other, specify"	73	"positive"	"positive"	NA	"not hispanic or latino"	"white"	4	"stage iiib"	"m0"	"n1"	"t4"	1	1	0	0	1	14	85	1	1642
+"A201"	"infiltrating ductal carcinoma"	64	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	0	5	30	65	0	856
+"A203"	"infiltrating ductal carcinoma"	78	NA	NA	NA	"not hispanic or latino"	"white"	35	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	20	80	1	1174
+"A208"	"infiltrating ductal carcinoma"	48	NA	NA	NA	"not hispanic or latino"	"white"	3	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	0	100	0	1759
+"A209"	"medullary carcinoma"	77	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	0	20	80	0	3959
+"A28O"	"infiltrating lobular carcinoma"	50	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	14	"stage iiic"	"m0"	"n3"	"t3"	0	0	0	0	15	45	40	0	1120
+"A5IZ"	"infiltrating ductal carcinoma"	51	"positive"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	1	"stage iib"	NA	"n1"	"t2"	3	0	0	0	0	0	100	0	567
+"A6R8"	"infiltrating ductal carcinoma"	46	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	5	1	1	0	10	5	85	0	293
+"A8FZ"	"infiltrating lobular carcinoma"	58	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	40	20	20	0	5	25	70	0	574
+"A8G0"	"infiltrating lobular carcinoma"	54	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	3	"stage iib"	"m0"	"n1"	"t2"	40	20	20	0	10	30	60	0	662
+"AB28"	"infiltrating lobular carcinoma"	53	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	3	"stage iiia"	"m0"	"n1"	"t3"	5	0	0	0	5	20	75	0	287
+"A12M"	"infiltrating ductal carcinoma"	70	"positive"	"negative"	"negative"	"not hispanic or latino"	"asian"	NA	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	0	100	0	358
+"A12P"	"infiltrating ductal carcinoma"	55	"negative"	"negative"	"positive"	"not hispanic or latino"	"asian"	NA	"stage iib"	"m0"	"n1"	"t2"	2	2	1	2	0	28	70	0	358
+"A12Z"	"infiltrating ductal carcinoma"	45	"negative"	"negative"	"positive"	"not hispanic or latino"	"asian"	2	"stage iib"	"m0"	"n1"	"t2"	40	20	20	10	0	30	60	0	382
+"A131"	"infiltrating ductal carcinoma"	82	"negative"	"negative"	"negative"	"not hispanic or latino"	"asian"	4	"stage iiia"	"m0"	"n2"	"t2"	40	20	20	20	0	20	60	0	411
+"A1HE"	"infiltrating ductal carcinoma"	59	"positive"	"positive"	NA	"not hispanic or latino"	"asian"	NA	"stage iia"	"m0"	"n0"	"t2"	2	0	0	1	4	10	85	0	375
+"A26W"	"infiltrating ductal carcinoma"	58	"positive"	"positive"	NA	"not hispanic or latino"	"asian"	NA	"stage iib"	"m0"	"n1"	"t2"	1	0	0	1	0	34	65	0	381
+"A26Y"	"infiltrating ductal carcinoma"	90	"negative"	"negative"	"negative"	"not hispanic or latino"	"asian"	NA	"stage iia"	"m0"	"n0"	"t2"	5	0	0	15	0	30	55	0	394
+"A273"	"infiltrating ductal carcinoma"	29	"positive"	"positive"	"negative"	"not hispanic or latino"	"asian"	2	"stage iib"	"m0"	"n1"	"t2"	3	1	0	5	0	20	75	0	513
+"A274"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	"negative"	"not hispanic or latino"	"asian"	NA	"stage iia"	"m0"	"n0"	"t2"	1	0	0	1	0	34	65	0	508
+"A278"	"infiltrating ductal carcinoma"	61	"negative"	"negative"	"positive"	"not hispanic or latino"	"asian"	NA	"stage iiia"	"m0"	"n2"	"t2"	40	10	30	5	0	35	60	0	297
+"A1J9"	"infiltrating ductal carcinoma"	48	"positive"	"negative"	"positive"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	0	0	0	100	0	532
+"A1JD"	"infiltrating ductal carcinoma"	41	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	3	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	5	95	0	552
+"A1JN"	"infiltrating lobular carcinoma"	80	"positive"	"positive"	NA	"not hispanic or latino"	"white"	11	"stage iiic"	NA	"n3"	"t3"	3	1	0	0	0	20	80	0	620
+"A1JS"	"other, specify"	77	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	1	1	0	0	0	15	85	0	371
+"A1X8"	"infiltrating lobular carcinoma"	62	"positive"	NA	"negative"	"not hispanic or latino"	"white"	9	"stage iiia"	"m0"	"n2"	"t1"	0	0	0	0	0	0	100	0	783
+"A1XJ"	"other, specify"	76	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	2	"stage iiia"	NA	"n1"	"t3"	2	0	0	8	0	18	74	0	664
+"A1XO"	"infiltrating lobular carcinoma"	56	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	1	0	0	0	0	25	75	0	1682
+"A1XV"	"mucinous carcinoma"	84	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	40	60	0	461
+"A1XY"	"infiltrating ductal carcinoma"	74	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage iia"	NA	"n0"	"t2"	0	0	0	0	0	0	100	0	503
+"A1Y0"	"infiltrating ductal carcinoma"	65	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	9	"stage iiia"	NA	"n2"	"t1"	2	1	1	0	1	14	85	0	472
+"A1Y1"	"infiltrating ductal carcinoma"	80	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iiia"	NA	"n1"	"t3"	0	0	0	0	0	0	100	1	302
+"A1Y2"	"infiltrating ductal carcinoma"	71	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage iia"	NA	"n0"	"t2"	0	0	0	0	0	0	100	0	433
+"A27H"	"infiltrating ductal carcinoma"	72	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	NA	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	1	0	99	0	397
+"A27T"	"infiltrating lobular carcinoma"	53	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	12	"stage iiic"	"m0"	"n3"	"t2"	0	0	0	0	0	60	40	0	398
+"A3Z6"	"infiltrating lobular carcinoma"	56	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	19	"stage iiic"	"m0"	"n3"	"t3"	2	1	0	0	0	0	100	0	563
+"A4Z1"	"infiltrating lobular carcinoma"	68	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	0	10	0	90	0	659
+"A73U"	"infiltrating lobular carcinoma"	88	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	NA	"stage iia"	"m0"	"n0"	"t2"	1	0	0	0	0	0	100	0	492
+"A73W"	"mucinous carcinoma"	79	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	1	"stage iiia"	NA	"n1"	"t3"	2	0	0	0	0	0	100	1	21
+"A73X"	"other, specify"	53	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	NA	"stage iia"	"m0"	"n0"	"t2"	3	0	0	0	0	0	100	0	767
+"A108"	"infiltrating ductal carcinoma"	64	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	4	"stage iiia"	"m0"	"n2"	"t2"	4	0	0	0	5	70	25	0	837
+"A10A"	"infiltrating ductal carcinoma"	41	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage iib"	"m0"	"n0"	"t3"	60	10	10	0	0	15	85	1	75
+"A10B"	"infiltrating ductal carcinoma"	67	"positive"	"positive"	NA	"not hispanic or latino"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	4	1	1	1	4	25	70	1	195
+"A10C"	"infiltrating ductal carcinoma"	54	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	10	90	0	1220
+"A14P"	"infiltrating ductal carcinoma"	79	"negative"	"negative"	"positive"	"not hispanic or latino"	"white"	10	"stage iiic"	"m0"	"n3"	"t2"	10	0	0	5	2	23	70	0	1246
+"A14T"	"infiltrating ductal carcinoma"	52	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	20	80	0	2311
+"A14V"	"infiltrating ductal carcinoma"	53	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	3	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	25	75	0	1042
+"A154"	"infiltrating ductal carcinoma"	68	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	2	1	42	55	0	591
+"A15C"	"infiltrating ductal carcinoma"	61	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	0	0	100	0	694
+"A15E"	"infiltrating ductal carcinoma"	40	"positive"	"positive"	NA	"not hispanic or latino"	"white"	1	"stage iia"	"m0"	"n1"	"t1"	2	0	0	1	30	44	25	0	630
+"A15H"	"infiltrating ductal carcinoma"	38	"positive"	"positive"	NA	"not hispanic or latino"	"white"	1	"stage iia"	"m0"	"n1"	"t1"	2	1	1	2	1	22	75	0	393
+"A15J"	"infiltrating ductal carcinoma"	51	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	2	1	1	2	0	18	80	0	1640
+"A15K"	"infiltrating ductal carcinoma"	58	"positive"	"positive"	NA	"not hispanic or latino"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	2	0	0	0	0	10	90	0	275
+"A15L"	"infiltrating lobular carcinoma"	65	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	2	1	0	0	0	20	80	0	626
+"A15M"	"infiltrating lobular carcinoma"	66	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	6	0	0	1	0	34	65	0	336
+"A15S"	"infiltrating ductal carcinoma"	34	"positive"	"negative"	NA	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	5	0	15	80	0	428
+"A1B6"	"infiltrating ductal carcinoma"	44	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	40	20	20	0	10	30	60	0	867
+"A1IG"	"infiltrating ductal carcinoma"	45	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	0	100	0	2140
+"A1IH"	"infiltrating lobular carcinoma"	80	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	0	0	100	0	1026
+"A1II"	"infiltrating ductal carcinoma"	51	"negative"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	0	0	100	0	1025
+"A1L6"	"infiltrating ductal carcinoma"	44	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iia"	"m0"	"n1"	"t1"	0	0	0	0	15	50	35	0	1648
+"A1LE"	"infiltrating ductal carcinoma"	71	"negative"	"negative"	"positive"	"not hispanic or latino"	"white"	27	"stage iiic"	"m0"	"n3"	"t2"	0	0	0	0	0	30	70	1	361
+"A1LL"	"infiltrating ductal carcinoma"	73	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	5	"stage iiia"	NA	"n2"	"t3"	3	1	1	0	0	25	75	1	1303
+"A3DX"	"infiltrating lobular carcinoma"	43	"positive"	"positive"	NA	"not hispanic or latino"	"white"	25	"stage iiic"	"m0"	"n3"	"t2"	10	0	0	0	5	65	30	0	1325
+"A570"	"infiltrating ductal carcinoma"	47	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	1	"stage ib"	"m0"	"n1"	"t1"	5	2	0	5	0	60	35	0	931
+"A573"	"infiltrating ductal carcinoma"	48	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	0	"stage ia"	"m0"	"n0"	"t1"	22	2	2	12	0	30	58	0	1062
+"A576"	"infiltrating lobular carcinoma"	69	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage ia"	NA	"n0"	"t1"	1	0	0	0	0	0	100	0	1043
+"A1N8"	"infiltrating ductal carcinoma"	48	"negative"	NA	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	2	1	1	2	0	18	80	0	1039
+"A1NI"	"mixed histology (please specify)"	51	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	30	70	0	300
+"A1R2"	"infiltrating ductal carcinoma"	51	"positive"	"negative"	NA	"not hispanic or latino"	"white"	17	"stage iiic"	NA	"n3"	"t2"	0	0	0	0	0	0	100	0	1063
+"A1R3"	"infiltrating ductal carcinoma"	70	NA	NA	NA	"not hispanic or latino"	"white"	10	"stage iiic"	"m0"	"n3"	"t2"	0	0	0	0	0	0	100	0	78
+"A1R7"	"infiltrating ductal carcinoma"	64	NA	NA	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	0	100	0	1467
+"A1RA"	"infiltrating ductal carcinoma"	48	NA	NA	NA	"not hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	0	0	0	0	0	15	85	0	1369
+"A1RG"	"infiltrating ductal carcinoma"	62	NA	NA	NA	"not hispanic or latino"	"white"	4	"stage iiia"	"m0"	"n2"	"t1"	2	0	0	4	0	31	65	0	647
+"A228"	"infiltrating ductal carcinoma"	58	NA	NA	NA	"not hispanic or latino"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	2	1	1	0	0	15	85	0	1285
+"A245"	"infiltrating ductal carcinoma"	47	NA	NA	NA	"not hispanic or latino"	"white"	3	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	10	55	35	0	26
+"A24A"	"infiltrating ductal carcinoma"	69	NA	NA	NA	"not hispanic or latino"	"white"	1	"stage iia"	"m0"	"n1"	"t1"	0	0	0	0	0	20	80	0	747
+"A295"	"infiltrating lobular carcinoma"	71	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	1	0	0	2	5	63	30	0	375
+"A2JS"	"infiltrating lobular carcinoma"	72	NA	NA	NA	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	30	70	1	524
+"A3Q9"	"infiltrating lobular carcinoma"	78	"positive"	"positive"	NA	"not hispanic or latino"	"white"	22	"stage iiic"	"m0"	"n3"	"t3"	2	1	0	0	0	25	75	0	1001
+"A3QA"	"medullary carcinoma"	33	NA	NA	NA	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	20	80	0	918
+"A3X8"	"infiltrating lobular carcinoma"	48	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	4	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	2	38	60	0	926
+"A5FK"	"infiltrating lobular carcinoma"	60	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	10	"stage iiic"	"m0"	"n3"	"t2"	1	0	0	0	5	0	95	0	812
+"A1IW"	"infiltrating lobular carcinoma"	80	"positive"	"positive"	"positive"	"hispanic or latino"	"white"	2	"stage iib"	NA	"n1"	"t2"	0	0	0	0	0	10	90	0	371
+"A1OV"	"infiltrating ductal carcinoma"	56	"negative"	"negative"	"negative"	"hispanic or latino"	"white"	0	"stage iib"	NA	"n1"	"t2"	18	0	0	5	2	10	83	0	789
+"A1OZ"	"infiltrating ductal carcinoma"	56	"positive"	"negative"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	10	0	0	0	10	26	64	0	1229
+"A1P0"	"other, specify"	55	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	NA	"n1"	"t2"	15	0	0	0	0	35	65	1	1094
+"A1PE"	"infiltrating ductal carcinoma"	56	"positive"	"positive"	"negative"	"hispanic or latino"	"white"	1	"stage iia"	"m0"	"n1"	"t1"	2	1	1	0	0	25	75	0	320
+"A1PF"	"infiltrating ductal carcinoma"	50	"positive"	"positive"	"negative"	"hispanic or latino"	"white"	0	"stage ia"	"m0"	"n0"	"t1"	3	1	1	1	3	26	70	0	439
+"A1PH"	"infiltrating ductal carcinoma"	52	"negative"	"negative"	"negative"	"hispanic or latino"	"white"	1	"stage iia"	"m0"	"n1"	"t1"	2	1	1	2	0	13	85	0	607
+"A2FV"	"other, specify"	39	"positive"	"positive"	"negative"	"hispanic or latino"	"white"	29	"stage iiic"	NA	"n3"	"t3"	5	0	0	0	3	67	30	0	788
+"A2FW"	"other, specify"	52	"positive"	"positive"	"negative"	"hispanic or latino"	"white"	0	"stage iia"	NA	"n0"	"t2"	1	0	0	2	0	13	85	0	672
+"A3U0"	"infiltrating ductal carcinoma"	61	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	1	"stage iiia"	"m0"	"n1"	"t3"	0	0	0	0	0	45	55	0	532
+"A424"	"infiltrating lobular carcinoma"	51	"positive"	"positive"	"positive"	"hispanic or latino"	"white"	0	"stage iiia"	NA	"n1"	"t3"	0	0	0	0	2	58	40	0	715
+"A2DA"	"infiltrating ductal carcinoma"	46	"positive"	"positive"	NA	"not hispanic or latino"	"white"	2	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	15	85	1	3014
+"A2DB"	"infiltrating ductal carcinoma"	62	"negative"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	15	0	5	80	0	2406
+"A2DI"	"infiltrating ductal carcinoma"	52	"negative"	"negative"	NA	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	0	0	0	0	0	5	95	0	2590
+"A2DK"	"infiltrating ductal carcinoma"	58	"positive"	"negative"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	1	0	0	4	0	56	40	0	2645
+"A3XL"	"infiltrating ductal carcinoma"	49	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	15	5	15	65	0	2108
+"A3XN"	"infiltrating lobular carcinoma"	44	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	5	"stage iiia"	"m0"	"n2"	"t1"	0	0	0	0	0	0	100	0	2019
+"A4E0"	"infiltrating lobular carcinoma"	67	"positive"	"positive"	NA	"not hispanic or latino"	"white"	10	"stage iiic"	"m0"	"n3"	"t3"	0	0	0	0	0	40	60	0	2191
+"A5PV"	"infiltrating lobular carcinoma"	63	"positive"	"positive"	NA	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	75	10	15	0	412
+"A5PX"	"infiltrating lobular carcinoma"	65	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	1	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	0	0	100	0	551
+"A2OB"	"infiltrating lobular carcinoma"	45	"positive"	"positive"	"negative"	"NA"	"NA"	2	"stage iib"	"m0"	"n1"	"t2"	0	0	0	0	20	20	60	1	1543
+"A9QF"	"infiltrating ductal carcinoma"	73	"negative"	"negative"	"positive"	"not hispanic or latino"	"black or african american"	0	"stage ia"	"m0"	"n0"	"t1"	40	20	20	10	0	20	70	0	323
+"A5YN"	"infiltrating ductal carcinoma"	46	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	20	0	80	0	447
+"A6FP"	"infiltrating lobular carcinoma"	90	"positive"	"positive"	NA	"not hispanic or latino"	"white"	NA	"stage iia"	NA	NA	"t2"	3	1	1	0	0	20	80	0	677
+"A73Y"	"infiltrating ductal carcinoma"	67	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	0	"stage ia"	NA	"n0"	"t1"	40	20	20	0	0	20	80	0	477
+"A73Z"	"infiltrating ductal carcinoma"	55	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	NA	"stage iv"	"m1"	NA	"t1"	40	20	20	10	0	20	70	1	192
+"A9Q3"	"infiltrating lobular carcinoma"	69	"positive"	"positive"	"positive"	"not hispanic or latino"	"white"	28	"stage iiic"	NA	"n3"	"t3"	70	10	10	0	0	20	80	0	532
+"A4E4"	"infiltrating lobular carcinoma"	73	"positive"	"positive"	NA	"not hispanic or latino"	"white"	3	"stage iiia"	NA	"n1"	"t3"	1	0	0	0	0	0	100	1	681
+"A5Q2"	"infiltrating lobular carcinoma"	59	"positive"	"positive"	"negative"	"NA"	"NA"	2	"stage ii"	NA	"n1"	"t2"	2	0	0	0	0	0	100	0	64
+"A5D7"	"infiltrating ductal carcinoma"	70	"negative"	"negative"	NA	"not hispanic or latino"	"black or african american"	NA	"stage iia"	NA	"n0"	"t2"	0	0	0	10	0	0	90	0	1780
+"A5D8"	"infiltrating ductal carcinoma"	40	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	NA	"stage iib"	NA	"n0"	"t3"	0	0	0	0	0	0	100	0	973
+"A5RV"	"infiltrating ductal carcinoma"	43	"positive"	"positive"	NA	"NA"	"black or african american"	20	"stage iiic"	NA	"n3"	"t2"	5	0	0	0	4	71	25	0	1062
+"A5RW"	"infiltrating ductal carcinoma"	40	"negative"	"negative"	NA	"NA"	"black or african american"	1	"stage iia"	NA	"n1"	"t1"	5	0	0	2	0	53	45	0	1106
+"A5RY"	"infiltrating ductal carcinoma"	52	"positive"	"negative"	NA	"NA"	"black or african american"	1	"stage iia"	NA	"n1"	"t1"	8	2	0	0	0	0	100	0	752
+"A66H"	"mucinous carcinoma"	74	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	NA	"stage ib"	NA	"n1"	"t1"	2	0	0	0	30	0	70	0	NA
+"A66J"	"infiltrating lobular carcinoma"	80	"positive"	"positive"	NA	"not hispanic or latino"	"white"	0	"stage i"	NA	"n0"	"t1"	2	0	0	0	0	0	100	0	1996
+"A66L"	"infiltrating ductal carcinoma"	71	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	NA	"stage ia"	NA	"n0"	"t1"	2	0	0	0	0	0	100	0	1301
+"A66N"	"infiltrating lobular carcinoma"	59	"positive"	"negative"	NA	"not hispanic or latino"	"white"	13	"stage iiic"	NA	"n3"	"t3"	0	0	0	0	0	60	40	0	792
+"A5DD"	"infiltrating lobular carcinoma"	64	"positive"	"negative"	"positive"	"not hispanic or latino"	"asian"	0	"stage iia"	"m0"	"n0"	"t2"	0	0	0	0	0	35	65	0	1953
+"A8LX"	"infiltrating ductal carcinoma"	35	NA	NA	NA	"not hispanic or latino"	"black or african american"	NA	"stage iv"	"m1"	"n1"	"t4"	40	20	20	0	0	20	80	0	5
+"A6ZF"	"infiltrating ductal carcinoma"	64	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	0	"stage iia"	"m0"	"n0"	"t2"	5	1	1	0	20	20	60	0	572
+"A6ZG"	"infiltrating lobular carcinoma"	71	"positive"	"positive"	"negative"	"not hispanic or latino"	"black or african american"	1	"stage iib"	"m0"	"n1"	"t2"	10	3	2	0	20	20	60	0	562
+"AA0Z"	"infiltrating ductal carcinoma"	63	"positive"	"positive"	NA	"not hispanic or latino"	"black or african american"	2	"stage iib"	"m0"	"n1"	"t2"	2	0	0	0	2	8	90	0	629
+"AA14"	"infiltrating ductal carcinoma"	47	"positive"	"positive"	"positive"	"not hispanic or latino"	"black or african american"	0	"stage i"	NA	"n0"	"t1"	40	20	20	0	0	20	80	0	529
+"AA15"	"infiltrating ductal carcinoma"	51	"negative"	"negative"	"negative"	"not hispanic or latino"	"black or african american"	2	"stage iib"	NA	"n1"	"t2"	40	20	20	0	5	35	60	0	525
+"A93S"	"infiltrating ductal carcinoma"	63	"negative"	"negative"	"positive"	"not hispanic or latino"	"black or african american"	NA	"stage iv"	"m1"	"n3"	"t4"	0	0	0	0	10	20	70	1	116
+"AB44"	"infiltrating lobular carcinoma"	77	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage ia"	NA	"n0"	"t1"	2	0	0	0	0	0	100	0	883
+"A8R6"	"infiltrating lobular carcinoma"	46	"positive"	"positive"	"negative"	"not hispanic or latino"	"white"	0	"stage i"	"m0"	"n0"	"t1"	40	20	20	5	0	25	70	0	3256
