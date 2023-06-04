@@ -1,0 +1,19 @@
+name: run1.R
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - snakemake=7.18
+  - r=4.1
+  - r-tidyverse
+  - r-survminer
+  - r-rms
+  - r-pheatmap
+  - r-glmnet
+  - r-data.table
+  - r-pROC
+  - r-survivalROC
+  - r-ROCR
+  
